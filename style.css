@@ -65,19 +65,21 @@
     top: 50%;
     transform: translateY(-50%);
     text-align: center;
-    color: #fff;
+    
 }
 
-.content h1 {
-    font-size: 70px;
+/* .content h1 {
+    font-size: 75px;
     margin-top: 80px;
+    color: #F9004d;
 }
 
 .content p {
     margin: 20px auto;
     font-weight: 100;
     line-height: 25px;
-}
+    color: #09cab7;
+} */
 
 button {
     width: 200px;
@@ -96,18 +98,19 @@ button {
     top: 50%;
     transform: translateY(-50%);
     text-align: center;
-    color: #fff;
+   
 }
 
 .content h1 {
-    font-size: 70px;
+    font-size: 100px;
     margin-top: 80px;
+     color:  #F9004d;
 }
 
 .content p {
     margin: 20px auto;
     font-weight: 100;
-    line-height: 25px;
+    line-height: 25px;color: #00aef9;
 }
 
 button {
