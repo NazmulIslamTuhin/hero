@@ -5,6 +5,7 @@
     font-family: sans-serif;
 }
 
+
 .banner {
     width: 100%;
     height: 100vh;
@@ -20,6 +21,9 @@
     display: flex;
     align-items: center;
     justify-content: space-between;
+}
+.navbar ul li a:hover{
+    color: #F9004d;
 }
 
 .logo {
