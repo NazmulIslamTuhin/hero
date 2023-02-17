@@ -125,3 +125,7 @@ button {
     color: #fff;
     cursor: pointer;
 }
+button:hover{
+    color:#F9004d
+    ;
+}
