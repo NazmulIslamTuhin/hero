@@ -126,6 +126,60 @@ button {
     cursor: pointer;
 }
 button:hover{
-    color:#F9004d
-    ;
+    color:#F9004d;
+}
+.footer{
+    background-color:black;
+    color: white;
+    height: 500px;
+    padding-left: 10%;
+    padding-right: 10%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+.left-footer h1{
+    font-size: 45px;
+    font-weight: 700;
+}
+.left-footer p{
+    font-size: 16px;
+    font-weight: 400;
+    margin-bottom: 20px;
+}
+.logo{
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+}
+.right-footer h1{
+    font-size: 45px;
+    font-weight: 700;
+}
+.right-footer input{
+    height: 50px;
+    width: 300px;
+    border: none;
+    border-radius: 10px;
+    padding-left: 10px;
+    margin-bottom: 20px;
+    background-color: rgb(254, 251, 251);
+    border: 1px solid rgb(246, 8, 8);
+}
+.right-footer button{
+    height: 60px;
+    width: 160px;
+    background-color: white;
+    border: none;
+    border-radius: 10px;
+    color: #F15B22;
+    border: 1px solid #F15B22;
+    font-size: 20px;
+}
+.right-footer button:hover{
+    background-color:#F15B22;
+    color: white;
+    cursor: pointer;
+    border: 2px solid #F15B22;
 }
