@@ -179,7 +179,7 @@ button:hover{
 }
 .right-footer button:hover{
     background-color:#F15B22;
-    color: white;
+    color: rgb(210, 125, 125);
     cursor: pointer;
     border: 2px solid #F15B22;
 }
